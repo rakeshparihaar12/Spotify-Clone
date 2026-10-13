@@ -32,7 +32,7 @@ Album information is loaded from `info.json`, while the song list is maintained 
 
 ## 🌐 Live Demo
 
-[rkspotifyy.netlify.app]
+https://rkspotifyy.netlify.app
 
 ## 📌 Note
 
